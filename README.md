@@ -67,34 +67,6 @@ const hyeSeung = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hye-Seung-Kim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hye-Seung-Kim&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hye-Seung-Kim&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
----
-
-## 📌 Featured Projects
-
-> Replace `[repo-name]` with your actual repository names below.
-
-<div align="center">
-  <a href="https://github.com/Hye-Seung-Kim/[repo-1]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hye-Seung-Kim&repo=[repo-1]&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Hye-Seung-Kim/[repo-2]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hye-Seung-Kim&repo=[repo-2]&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
