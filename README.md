@@ -42,7 +42,7 @@ A team-built game prototype created with Five Second Studio. The source reposito
 
 `OpenAI` `Game Prototyping` `Interaction Design`
 
-[Demo video](https://youtu.be/lPzD5Fn2aaI) · Source private
+[Play Color Hunt](https://color-hunt-deploys.vercel.app/) · [Demo video](https://youtu.be/lPzD5Fn2aaI) · Source private
 
 ## Currently
 
