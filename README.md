@@ -52,6 +52,7 @@ A team-built game prototype created with Five Second Studio. The source reposito
 
 ## Other open projects
 
+- [Gus in the Room](https://github.com/Hye-Seung-Kim/gusprojectfinal) — interactive installation combining a Viam robot, real-time dog projection, and web-based remote control
 - [driveboy_app](https://github.com/Hye-Seung-Kim/driveboy_app) — Flutter mobile app
 - [hackathon-mit-hardmode](https://github.com/Hye-Seung-Kim/hackathon-mit-hardmode) — MIT hackathon project
 - [menbti](https://github.com/Hye-Seung-Kim/menbti) / [mbti-mental](https://github.com/Hye-Seung-Kim/mbti-mental) — MBTI-based mental health web app
