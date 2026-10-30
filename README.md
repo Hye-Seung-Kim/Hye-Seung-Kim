@@ -6,7 +6,27 @@
 
 I started as a full-stack developer and moved toward UX engineering. I care about the details people feel: clear flows, thoughtful motion, accessible interfaces, and frontend systems that hold up beyond the prototype.
 
-## Recent hackathon work
+## Recent work
+
+### [MiniMed Growth Engine](https://minimed-research-engine.vercel.app)
+*[Longaeva AI Hackathon](https://www.longaeva.com/hackathon) · 2026 · 🏅 Finalist (Top 5)*
+
+Built for Longaeva's "Businesses, Not Numbers" challenge: a system that can be run forward to simulate a company's likely outcomes. It links MiniMed's public filings and product disclosures to reported results, issues a versioned quarterly reference forecast, and compares it with user-defined scenarios.
+
+`React` `Vite` `Node.js` `TypeScript`
+
+[Live demo](https://minimed-research-engine.vercel.app) · [Hackathon](https://www.longaeva.com/hackathon) · Source private
+
+### Projects
+
+- [UV Shade](https://uv-shade.netlify.app) — mobile PWA with a UV index dial, 3D building-shadow map, and shady walking routes for NYC
+- [A Day in the Sun](https://a-day-in-the-sun.vercel.app) — scrollytelling data story on sunscreen use (CDC/NCHS RSS) · [Repository](https://github.com/Hye-Seung-Kim/a-day-in-the-sun)
+- [Heat Check-In](https://github.com/Hye-Seung-Kim/heat-check-in) — NYC heat-advisory outreach call sheet for behavioral-health care teams (Health in Climate NYC 2026 hackathon)
+- [Animal Hunt](https://qr-animal-hunt.netlify.app) — AR-style QR scavenger hunt game · [Time Attack kiosk mode](https://qr-animal-hunt-kiosk.netlify.app) · [Repository](https://github.com/Hye-Seung-Kim/qr-animal-hunt)
+- [Object Referents](https://object-referents-sva.netlify.app) — spatial computing prototype: physical QR keys suggest a meeting spot between friends
+- [QR Code Tracking](https://qrcode-tracking-218.netlify.app) — live multi-QR tracking in the browser with a webcam · [Repository](https://github.com/Hye-Seung-Kim/qrcode-tracking)
+
+## Earlier hackathon work
 
 ### [PawTry Together](https://github.com/Hye-Seung-Kim/petfit)
 *Google Fashion Hackathon · 2026*
